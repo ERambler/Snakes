@@ -1,0 +1,14 @@
+/home/erambler/Projects/Labs/C#_experiments/Snakes/bin/Debug/netcoreapp3.1/Snakes
+/home/erambler/Projects/Labs/C#_experiments/Snakes/bin/Debug/netcoreapp3.1/Snakes.deps.json
+/home/erambler/Projects/Labs/C#_experiments/Snakes/bin/Debug/netcoreapp3.1/Snakes.runtimeconfig.json
+/home/erambler/Projects/Labs/C#_experiments/Snakes/bin/Debug/netcoreapp3.1/Snakes.runtimeconfig.dev.json
+/home/erambler/Projects/Labs/C#_experiments/Snakes/bin/Debug/netcoreapp3.1/Snakes.dll
+/home/erambler/Projects/Labs/C#_experiments/Snakes/bin/Debug/netcoreapp3.1/Snakes.pdb
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.csproj.AssemblyReference.cache
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.GeneratedMSBuildEditorConfig.editorconfig
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.AssemblyInfoInputs.cache
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.AssemblyInfo.cs
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.csproj.CoreCompileInputs.cache
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.dll
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.pdb
+/home/erambler/Projects/Labs/C#_experiments/Snakes/obj/Debug/netcoreapp3.1/Snakes.genruntimeconfig.cache
